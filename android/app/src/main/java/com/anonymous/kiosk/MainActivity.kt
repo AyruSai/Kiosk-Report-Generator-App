@@ -1,4 +1,4 @@
-package com.kiosk
+package com.anonymous.kiosk
 
 import android.os.Build
 import android.os.Bundle
